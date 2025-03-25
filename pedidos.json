@@ -1,0 +1,13 @@
+{
+    "P001": {
+        "codigo_cliente": "C001",
+        "fecha": "2025-03-24 20:09:24",
+        "detalles": [
+            {
+                "codigo_producto": "2",
+                "cantidad": 20
+            }
+        ],
+        "total": 8000.0
+    }
+}

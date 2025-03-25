@@ -1,0 +1,68 @@
+{
+    "1": {
+        "nombre": "mestiza",
+        "categoria": "pan",
+        "proveedor": "proveedor A",
+        "stock": 50,
+        "precio_compra": 200.0,
+        "precio_venta": 400.0
+    },
+    "2": {
+        "nombre": "cascarita",
+        "categoria": "pan",
+        "proveedor": "proveedor A",
+        "stock": 80,
+        "precio_compra": 200.0,
+        "precio_venta": 400.0
+    },
+    "3": {
+        "nombre": "mojicon",
+        "categoria": "pan",
+        "proveedor": "proveedor A",
+        "stock": 100,
+        "precio_compra": 200.0,
+        "precio_venta": 400.0
+    },
+    "4": {
+        "nombre": "pan de dulce",
+        "categoria": "pan",
+        "proveedor": "proveedor A",
+        "stock": 100,
+        "precio_compra": 200.0,
+        "precio_venta": 400.0
+    },
+    "5": {
+        "nombre": "pan tajado",
+        "categoria": "pan",
+        "proveedor": "proveedor A",
+        "stock": 20,
+        "precio_compra": 1000,
+        "precio_venta": 2000
+    },
+    "6": {
+        "nombre": "pan de queso",
+        "categoria": "pan",
+        "proveedor": "proveedor A",
+        "stock": 100,
+        "precio_compra": 200.0,
+        "precio_venta": 400.0
+    },
+    "7": {
+        "nombre": "tortas de chocolate",
+        "categoria": "ponques",
+        "proveedor": "proveedor B",
+        "stock": 50,
+        "precio_compra": 30000,
+        "precio_venta": 40000
+    },
+    "8": {
+        "nombre": "torta tres leches",
+        "categoria": "ponques",
+        "proveedor": "proveedor B",
+        "stock": 50,
+        "precio_compra": 30000,
+        "precio_venta": 40000
+    }
+    
+    
+}
